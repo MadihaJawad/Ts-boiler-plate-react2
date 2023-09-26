@@ -1,0 +1,15 @@
+.bg_img_login{
+  /* background-color: rgba(0, 255, 255, 0.395); */
+  background-image: url(../src/assets/desktop-wallpaper-website-background-website-login-page-background.jpg);
+  background-size: cover;
+  height: 100vh;
+ }
+ .paperColor{
+     background-color: rgba(234, 141, 206, 0.329) !important;
+ }
+ .bg_img_SignUp{
+  /* background-color: rgba(0, 255, 255, 0.395); */
+  background-image: url(../src/assets/desktop-wallpaper-website-background-website-login-page-background.jpg);
+  background-size: cover;
+  height: 100vh;
+ }
